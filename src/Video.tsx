@@ -19,7 +19,7 @@ export const RemotionVideo: React.FC = () => {
 				// You can override these props for each render:
 				// https://www.remotion.dev/docs/parametrized-rendering
 				defaultProps={{
-					titleText: 'Welcome to Remotion',
+					titleText: 'Fixing-Good',
 					titleColor: 'black',
 				}}
 			/>
